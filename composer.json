@@ -1,0 +1,16 @@
+{
+    "name": "fonseca/aulaoo",
+    "description": "Aula PHP OO",
+    "authors": [
+        {
+            "name": "diegofonseca",
+            "email": "diego@cbkdigital.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Controller\\" : "app/Controller"
+        }
+    },
+    "require": {}
+}
